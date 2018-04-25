@@ -1,0 +1,4 @@
+﻿  Player.cpp
+c:\users\hp\documents\visual studio 2015\projects\map_finalproject\player.cpp(111): warning C4715: 'Player::Fight': not all control paths return a value
+  MAP_finalProject.vcxproj -> C:\Users\HP\Documents\Visual Studio 2015\Projects\MAP_finalProject\Debug\MAP_finalProject.exe
+  MAP_finalProject.vcxproj -> C:\Users\HP\Documents\Visual Studio 2015\Projects\MAP_finalProject\Debug\MAP_finalProject.pdb (Partial PDB)
