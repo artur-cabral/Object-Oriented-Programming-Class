@@ -18,3 +18,7 @@ In the folder you can find the code for the board, and how it is structured, for
    </p>
 
 <h2>Final Project</h2>
+<p>
+  The main objective for the final project was to combine all the knowledge acquired from the course and apply it to a single program or application. It was decided by the group that a text-based adventure game was going to be created. Text-based adventure games interact with the player all through text, describing the situation the player is in, and gives all the options the player can choose from, and possible moves to make.<br>
+  This one is a medieval themed text adventure game, and the goal for the player is to go from the beginning to the end of the map without losing all of its lives, and collect the holy weapon to kill the big enemy in order to win the game. There are some rooms or places the player has to go through, some items that need to be taken, but it is all up to the player. The game is self-explanatory once you start playing.
+  </p>
